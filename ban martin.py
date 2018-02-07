@@ -139,4 +139,4 @@ bot.add_listener(detection, 'on_message')
 
 
     
-bot.run("Mzk3NjA4NDM0NDk0ODY1NDE4.DVRnIg.zm5FhlsqXTdasjDT_pZBIoJAxRo")
+bot.run(code)
